@@ -1,0 +1,51 @@
+<NewDataSet>
+  <Table>
+    <id>1</id>
+    <display>Homo sapiens</display>
+    <mnemonic>HS</mnemonic>
+    <simpleName>human</simpleName>
+    <latinName>Homo sapiens</latinName>
+  </Table>
+  <Table>
+    <id>2</id>
+    <display>Mus musculus</display>
+    <mnemonic>MM</mnemonic>
+    <simpleName>mouse</simpleName>
+    <latinName>Mus musculus</latinName>
+  </Table>
+  <Table>
+    <id>3</id>
+    <display>Rattus norvegicus</display>
+    <mnemonic>RN</mnemonic>
+    <simpleName>rat</simpleName>
+    <latinName>Rattus norvegicus</latinName>
+  </Table>
+  <Table>
+    <id>4</id>
+    <display>Canis familiaris</display>
+    <mnemonic>CF</mnemonic>
+    <simpleName>dog</simpleName>
+    <latinName>Canis familiaris</latinName>
+  </Table>
+  <Table>
+    <id>5</id>
+    <display>Macaca mulatta</display>
+    <mnemonic>RM</mnemonic>
+    <simpleName>rhesus</simpleName>
+    <latinName>Macaca mulatta</latinName>
+  </Table>
+  <Table>
+    <id>9</id>
+    <display>Oryctolagus cuniculus</display>
+    <mnemonic>OC</mnemonic>
+    <simpleName>rabbit</simpleName>
+    <latinName>Oryctolagus cuniculus</latinName>
+  </Table>
+  <Table>
+    <id>10</id>
+    <display>Cricetulus griseus</display>
+    <mnemonic>CG</mnemonic>
+    <simpleName>CHO</simpleName>
+    <latinName>Cricetulus griseus</latinName>
+  </Table>
+</NewDataSet>

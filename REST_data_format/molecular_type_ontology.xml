@@ -1,0 +1,82 @@
+<NewDataSet>
+  <Table>
+    <InteractorType>miRNA-RNA</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>0</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>protein-protein</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>0</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>protein-other</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>0</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>small molecule-drug class</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>1</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>protein-DNA</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>1</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>protein-RNA</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>2</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>protein-small molecule</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>3</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>protein-drug</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>4</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>protein-phenotype</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>5</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>protein-disease</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>6</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>protein-complex</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>7</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>small molecule-DNA</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>8</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>small molecule-RNA</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>9</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>small molecule-protein</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>10</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>small molecule-other</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>11</DisplayOrder>
+  </Table>
+  <Table>
+    <InteractorType>small molecule-complex</InteractorType>
+    <InteractorTypeParent>'NULL'</InteractorTypeParent>
+    <DisplayOrder>12</DisplayOrder>
+  </Table>
+</NewDataSet>

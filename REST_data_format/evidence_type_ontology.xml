@@ -1,0 +1,62 @@
+<NewDataSet>
+  <Table>
+    <EvidenceType>Experiment</EvidenceType>
+    <EvidenceTypeParent>'NULL'</EvidenceTypeParent>
+    <DisplayOrder>0</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>Low Throughput Experiment</EvidenceType>
+    <EvidenceTypeParent>Experiment</EvidenceTypeParent>
+    <DisplayOrder>1</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>High Throughput Experiment</EvidenceType>
+    <EvidenceTypeParent>Experiment</EvidenceTypeParent>
+    <DisplayOrder>2</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>Coexpression</EvidenceType>
+    <EvidenceTypeParent>NULL</EvidenceTypeParent>
+    <DisplayOrder>3</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>Interolog</EvidenceType>
+    <EvidenceTypeParent>'NULL'</EvidenceTypeParent>
+    <DisplayOrder>4</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>Prediction</EvidenceType>
+    <EvidenceTypeParent>'NULL'</EvidenceTypeParent>
+    <DisplayOrder>5</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>Statistical</EvidenceType>
+    <EvidenceTypeParent>'NULL'</EvidenceTypeParent>
+    <DisplayOrder>6</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>Expert Consensus</EvidenceType>
+    <EvidenceTypeParent>'NULL'</EvidenceTypeParent>
+    <DisplayOrder>7</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>Expert Curation</EvidenceType>
+    <EvidenceTypeParent>'NULL'</EvidenceTypeParent>
+    <DisplayOrder>8</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>Text Mining</EvidenceType>
+    <EvidenceTypeParent>'NULL'</EvidenceTypeParent>
+    <DisplayOrder>9</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>Unknown</EvidenceType>
+    <EvidenceTypeParent>'NULL'</EvidenceTypeParent>
+    <DisplayOrder>10</DisplayOrder>
+  </Table>
+  <Table>
+    <EvidenceType>Other</EvidenceType>
+    <EvidenceTypeParent>'NULL'</EvidenceTypeParent>
+    <DisplayOrder>11</DisplayOrder>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,34 @@
+<NewDataSet>
+  <Table>
+    <DataSourceParent>Curated Literature Databases</DataSourceParent>
+    <DataSource>Proteome</DataSource>
+    <DisplayOrder>1000</DisplayOrder>
+    <SourceDescription>This source contains licensed and public databases of curated molecular interactions from the literature (mostly publications).  Most of these databases contain interactions that are manually obtained by expert curators from publications. A few of these databases are populated through two steps by their curators : 1.Computationally extract interactions, 2. Manually curate extracted interactions. It should be noted that some of these databases contain published high-throughput data sets (for example, from Yeast Two Hybrid assays), so not all of the interactions have been individually tested. Although many of these databases contain interactions for many model organisms, we only extract interactions for human, mouse, and rat.</SourceDescription>
+  </Table>
+  <Table>
+    <DataSourceParent>Curated Literature Databases</DataSourceParent>
+    <DataSource>Ingenuity Supported Third Party Information</DataSource>
+    <DisplayOrder>2000</DisplayOrder>
+    <SourceDescription>This source contains licensed and public databases of curated molecular interactions from the literature (mostly publications).  Most of these databases contain interactions that are manually obtained by expert curators from publications. A few of these databases are populated through two steps by their curators : 1.Computationally extract interactions, 2. Manually curate extracted interactions. It should be noted that some of these databases contain published high-throughput data sets (for example, from Yeast Two Hybrid assays), so not all of the interactions have been individually tested. Although many of these databases contain interactions for many model organisms, we only extract interactions for human, mouse, and rat.</SourceDescription>
+  </Table>
+  <Table>
+    <DataSourceParent>Curated Literature Databases</DataSourceParent>
+    <DataSource>BioGRID (Yeast)</DataSource>
+    <SetSourceId>80</SetSourceId>
+    <SetId>1516761</SetId>
+    <DisplayOrder>2000</DisplayOrder>
+    <SourceDescription>This source contains licensed and public databases of curated molecular interactions from the literature (mostly publications).  Most of these databases contain interactions that are manually obtained by expert curators from publications. A few of these databases are populated through two steps by their curators : 1.Computationally extract interactions, 2. Manually curate extracted interactions. It should be noted that some of these databases contain published high-throughput data sets (for example, from Yeast Two Hybrid assays), so not all of the interactions have been individually tested. Although many of these databases contain interactions for many model organisms, we only extract interactions for human, mouse, and rat.</SourceDescription>
+  </Table>
+  <Table>
+    <DataSourceParent>Curated Literature Databases</DataSourceParent>
+    <DataSource>NetPro</DataSource>
+    <DisplayOrder>3000</DisplayOrder>
+    <SourceDescription>This source contains licensed and public databases of curated molecular interactions from the literature (mostly publications).  Most of these databases contain interactions that are manually obtained by expert curators from publications. A few of these databases are populated through two steps by their curators : 1.Computationally extract interactions, 2. Manually curate extracted interactions. It should be noted that some of these databases contain published high-throughput data sets (for example, from Yeast Two Hybrid assays), so not all of the interactions have been individually tested. Although many of these databases contain interactions for many model organisms, we only extract interactions for human, mouse, and rat.</SourceDescription>
+  </Table>
+  <Table>
+    <DataSourceParent>Curated Literature Databases</DataSourceParent>
+    <DataSource>Ingenuity Expert Findings</DataSource>
+    <DisplayOrder>4000</DisplayOrder>
+    <SourceDescription>This source contains licensed and public databases of curated molecular interactions from the literature (mostly publications).  Most of these databases contain interactions that are manually obtained by expert curators from publications. A few of these databases are populated through two steps by their curators : 1.Computationally extract interactions, 2. Manually curate extracted interactions. It should be noted that some of these databases contain published high-throughput data sets (for example, from Yeast Two Hybrid assays), so not all of the interactions have been individually tested. Although many of these databases contain interactions for many model organisms, we only extract interactions for human, mouse, and rat.</SourceDescription>
+  </Table>
+</NewDataSet>
